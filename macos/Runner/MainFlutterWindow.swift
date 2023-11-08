@@ -13,3 +13,10 @@ class MainFlutterWindow: NSWindow {
     super.awakeFromNib()
   }
 }
+
+
+# sidebar
+
+# main dashboard
+
+# profile/ right bar...
